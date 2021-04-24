@@ -1,0 +1,6 @@
+export GDK_SCALE=2
+#export GDK_SCALE=1
+
+export EDITOR=/usr/bin/vim
+
+export PATH=/home/panic/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin
